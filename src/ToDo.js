@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import './ToDo.css';
-import List from './List';
-import ToDoForm from './ToDoForm';
-import Item from './Item';
+import List from './components/List';
+import ToDoForm from './components/ToDoForm';
+import Item from './components/Item';
 
 function ToDo() {
 
