@@ -49,10 +49,13 @@ function ToDo() {
 
   }
 
-  return (<div className="container">
-      <h1>To Do</h1>
-      <ToDoForm onAddItem={onAddItem}></ToDoForm>
-      <List onDone={onDone} items={items} onItemDeleted={onItemDeleted}></List>
+  return (
+    <div className="container">
+      <div className="main">
+        <h1>To Do</h1>
+        <ToDoForm onAddItem={onAddItem}></ToDoForm>
+        <List onDone={onDone} items={items} onItemDeleted={onItemDeleted}></List>
+      </div>
     </div>
   );
 }
