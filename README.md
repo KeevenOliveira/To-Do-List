@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/KeevenOliveira/To-Do-List/blob/main/src/assets/2021-05-11-15-35-00.gif">
+</p>
+
 # To Do List❤
 
 Nesse projetinho simples, eu apliquei um `"CRUD"` em um To Do List que, como bem sabemos, ele serve para listar informações que pretendemos concluir em um determinado tempo.🤠
