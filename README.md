@@ -10,4 +10,9 @@ Nesse projetinho simples, eu apliquei um `"CRUD"` em um To Do List que, como bem
 - Marcar a tarefa como concluída, e
 - (Em breve a opção de editar);
 
+## 🎉Tecnologias usadas
+- React.js,
+- HTML,
+- CSS.
+
 😍Para acessar o projeto, clique [aqui](http://to-do-list.progkeeven.vercel.app/).
