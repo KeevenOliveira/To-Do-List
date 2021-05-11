@@ -10,7 +10,7 @@ body{
 }
 .main{
     margin: auto;
-    background-color: rgba(127, 255, 212, 0.884);
+    background-color: rgb(127, 255, 199);
     width: 500px;
     height: 500px;
     display: flex;
@@ -50,7 +50,7 @@ input{
     margin-right: 10px;
     width: 30px;
     height: 25px;
-    background-color: rgba(127, 255, 212, 0.884);
+    background-color: rgb(127, 255, 199);
     border: none;
     border-radius: 100px;
     outline: none;
